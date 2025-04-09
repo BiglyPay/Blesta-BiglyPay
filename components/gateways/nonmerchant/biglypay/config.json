@@ -1,0 +1,9 @@
+{
+  "name": "BiglyPay",
+  "class": "biglypay",
+  "type": "nonmerchant",
+  "version": "1.0.0",
+  "author": "BiglyBucks",
+  "logo": "https://biglybucks.com/logo-250.png",
+  "currencies": ["usd"]
+}
